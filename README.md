@@ -30,28 +30,19 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const mahfuj = {
-  name:        "Md Mahfuj Al Hossain Khan",
-  degree:      "B.Sc. in Computer Science & Engineering",
-  university:  "Daffodil International University",
-  location:    "Dhaka, Bangladesh 🇧🇩",
 
-  currentFocus: [
-    "React.js", "Next.js", "Tailwind CSS", "shadcn/ui"
-  ],
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-  learning: [
-    "Prisma", "PostgreSQL", "Backend Architecture"
-  ],
+### Hi, I'm Mahfuj 👋
 
-  backend:   ["Node.js", "Express.js"],
-  passion:   "Building clean, fast & beautiful web experiences",
-  openTo:    "Collaborations, internships & open source",
-};
-```
+- 🎓 CSE Student at **Daffodil International University**
+- 💻 Passionate Frontend Developer
+- ⚡ Building with **React, Next.js & TypeScript**
+- 🌱 Currently learning **Prisma & Backend Architecture**
+- 🚀 Love creating modern, clean UI/UX
+- 🤝 Open for collaborations & internships
 
----
+<br clear="right"/>
 
 ## 🛠️ My Skills
 
