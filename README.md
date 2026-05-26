@@ -127,14 +127,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khanmahfuj34/khanmahfuj34/output/github-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
