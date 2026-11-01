@@ -34,17 +34,19 @@
 
 ### Hi, I’m Md Mahfuj Al Hossain Khan 👋
 
-🎓 I have completed my B.Sc. in Computer Science & Engineering.  
+🎓 I have completed my B.Sc. in Computer Science & Engineering.
 
-💻 I work with React.js, Next.js, Tailwind CSS, and shadcn/ui for modern frontend development.  
+💼 Currently working as a **Full Stack Web Development Intern at SoftBD Ltd.**, gaining hands-on experience in real-world software development.
 
-⚙️ On the backend, I use Node.js, Express.js, MongoDB Atlas, and Supabase.  
+💻 I specialize in building modern, responsive web applications using **React.js, Next.js, TypeScript, Tailwind CSS, and shadcn/ui**.
 
-🛠️ Currently learning Prisma and PostgreSQL to strengthen my backend architecture skills.  
+⚙️ On the backend, I work with **Node.js, Express.js, and NestJS** to develop scalable and efficient RESTful APIs.
 
-⚡ I’m also passionate about Competitive Programming and problem-solving.  
+🗄️ Experienced in working with **MySQL, PostgreSQL, MongoDB, Prisma ORM, and Supabase** for database management and backend development.
 
-🚀 I love building clean, scalable, and user-friendly web applications.
+🚀 Passionate about building scalable, maintainable, and user-friendly software solutions while continuously exploring modern technologies.
+
+⚡ I also enjoy problem-solving and continuously improving my software engineering skills.
 
 <br clear="right"/>
 
